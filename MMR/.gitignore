@@ -1,0 +1,15 @@
+meshes
+images
+renders
+.idea/workspace.xml
+query_steps/__pycache__/calculate_distances.cpython-38.pyc
+query_steps/__pycache__/extract_features.cpython-38.pyc
+query_steps/__pycache__/normalization.cpython-38.pyc
+query_steps/__pycache__/render_2D_images.cpython-38.pyc
+TEMP3D_aabb.xyz
+tempfile.ply
+.idea/workspace.xml
+TEMP3D_aabb.xyz
+curvature_test.py
+mnist2500_labels.txt
+mnist2500_X.txt
